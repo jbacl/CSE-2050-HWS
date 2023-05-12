@@ -1,3 +1,3 @@
 # CSE-2050-HWS
 
-ALL HOMEWORK ASSIGNMENTS FROM CSE 2050
+All homework assignments from CSE 2050
